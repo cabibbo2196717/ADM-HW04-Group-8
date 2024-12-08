@@ -1,4 +1,4 @@
-# ADM-HW04-Group-8
+# ADM-HW04-Group 8
 
 # **Homework 4 Algorithmic Data Mining Group 8**
 **Group members:**
