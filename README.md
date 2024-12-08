@@ -22,6 +22,6 @@ In this repository you'll find:
     * `genome_tags.csv`
 
 
-* `functions.py`: a Python file containing the functions we defined to implement the KMeans and KMeans++ algorithms and the Elbow method and the Average Silhouette Score.
+* `functions.py`: a Python file containing the functions we defined to create MinHash user signatures, apply Locality-Sensitive Hashing (LSH) to cluster similar users, generate movie recommendations and implement the KMeans and KMeans++ algorithms, the Elbow method and the Average Silhouette Score.
 
 * `main.ipynb`: a Jupyter Notebook containing our solution to the homework. 
