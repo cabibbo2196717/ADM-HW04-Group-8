@@ -16,4 +16,6 @@ In this repository you'll find:
   
 * `Kmeans_Animation.mp4`: a video showing the functioning of Kmeans animation plot.
 
+* `Algorithmic Question.ipynb`: the Jupyter Notebook containing our solution to the algorithmic question.
+
 * `main.ipynb`: a Jupyter Notebook containing our solution to the homework. 
